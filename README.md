@@ -6,7 +6,6 @@ I'm a highly motivated IT professional specializing in Full Stack and Mobile Dev
 
 ### 👨‍💻 About Me
 
-*   🔭 Currently working as a **Technology Architecture Intern**.
 *   🎓 IT student specializing in **Full-Stack & Mobile Development**.
 *   💻 Passionate about scalable system design and exploring **Cybersecurity**.
 *   🚀 Creator of *MedSense*, an AI-powered clinic management system.
