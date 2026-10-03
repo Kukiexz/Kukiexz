@@ -3,13 +3,6 @@
 I'm a highly motivated IT professional specializing in Full Stack and Mobile Development, focused on building practical, scalable, and secure solutions.
 
 ---
-
-### 👨‍💻 About Me
-
-*   🎓 IT student specializing in **Full-Stack & Mobile Development**.
-*   💻 Passionate about scalable system design and exploring **Cybersecurity**.
-*   🚀 Creator of *MedSense*, an AI-powered clinic management system.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
